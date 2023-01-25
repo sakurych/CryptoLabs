@@ -1,0 +1,8 @@
+C:\Users\Sakurych\source\repos\cryptoLab_4\cryptoLab_4\obj\Debug\cryptoLab_4.csproj.AssemblyReference.cache
+C:\Users\Sakurych\source\repos\cryptoLab_4\cryptoLab_4\obj\Debug\cryptoLab_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sakurych\source\repos\cryptoLab_4\cryptoLab_4\obj\Debug\cryptoLab_4.csproj.CoreCompileInputs.cache
+C:\Users\Sakurych\source\repos\cryptoLab_4\cryptoLab_4\bin\Debug\cryptoLab_4.exe.config
+C:\Users\Sakurych\source\repos\cryptoLab_4\cryptoLab_4\bin\Debug\cryptoLab_4.exe
+C:\Users\Sakurych\source\repos\cryptoLab_4\cryptoLab_4\bin\Debug\cryptoLab_4.pdb
+C:\Users\Sakurych\source\repos\cryptoLab_4\cryptoLab_4\obj\Debug\cryptoLab_4.exe
+C:\Users\Sakurych\source\repos\cryptoLab_4\cryptoLab_4\obj\Debug\cryptoLab_4.pdb
