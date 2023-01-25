@@ -1,0 +1,15 @@
+C:\Users\Sakurych\source\repos\cryptoLab1\cryptoLab1\obj\Debug\net6.0\cryptoLab1.csproj.AssemblyReference.cache
+C:\Users\Sakurych\source\repos\cryptoLab1\cryptoLab1\obj\Debug\net6.0\cryptoLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sakurych\source\repos\cryptoLab1\cryptoLab1\obj\Debug\net6.0\cryptoLab1.AssemblyInfoInputs.cache
+C:\Users\Sakurych\source\repos\cryptoLab1\cryptoLab1\obj\Debug\net6.0\cryptoLab1.AssemblyInfo.cs
+C:\Users\Sakurych\source\repos\cryptoLab1\cryptoLab1\obj\Debug\net6.0\cryptoLab1.csproj.CoreCompileInputs.cache
+C:\Users\Sakurych\source\repos\cryptoLab1\cryptoLab1\bin\Debug\net6.0\cryptoLab1.exe
+C:\Users\Sakurych\source\repos\cryptoLab1\cryptoLab1\bin\Debug\net6.0\cryptoLab1.deps.json
+C:\Users\Sakurych\source\repos\cryptoLab1\cryptoLab1\bin\Debug\net6.0\cryptoLab1.runtimeconfig.json
+C:\Users\Sakurych\source\repos\cryptoLab1\cryptoLab1\bin\Debug\net6.0\cryptoLab1.dll
+C:\Users\Sakurych\source\repos\cryptoLab1\cryptoLab1\bin\Debug\net6.0\cryptoLab1.pdb
+C:\Users\Sakurych\source\repos\cryptoLab1\cryptoLab1\obj\Debug\net6.0\cryptoLab1.dll
+C:\Users\Sakurych\source\repos\cryptoLab1\cryptoLab1\obj\Debug\net6.0\refint\cryptoLab1.dll
+C:\Users\Sakurych\source\repos\cryptoLab1\cryptoLab1\obj\Debug\net6.0\cryptoLab1.pdb
+C:\Users\Sakurych\source\repos\cryptoLab1\cryptoLab1\obj\Debug\net6.0\cryptoLab1.genruntimeconfig.cache
+C:\Users\Sakurych\source\repos\cryptoLab1\cryptoLab1\obj\Debug\net6.0\ref\cryptoLab1.dll
